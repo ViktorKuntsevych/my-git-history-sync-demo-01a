@@ -1,2 +1,3 @@
-# my-git-history-sync-demo-01a
-my-git-history-sync-demo-01a
+# Git History and Sync Demo
+
+This repository is used to demonstrate Git commit history, revert, fetch and pull.
